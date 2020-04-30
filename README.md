@@ -4,10 +4,7 @@ Upset
 This is a fork of upset, an UPS patcher which has been lost in the depths
 of the internet.
 
-A command line interface has been added.
+All unnecessary files have been removed. A command line interface has been added.
 
-It's not clear to me what the license for the original upset is.
-In nall's Makefile it says "license: public domain", though, so I
-can assume that to apply over upset too.
+The original code is under the nall directory. It was placed in the public domain. The code in the upset_cli.cpp is distributed under the GPL 3.0 license.
 
-My changes, that is the command line interface, are under the GPLv3.
