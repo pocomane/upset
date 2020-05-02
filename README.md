@@ -6,7 +6,16 @@ of the internet.
 
 All unnecessary files have been removed. A command line interface has been added.
 
-The original code is under the nall directory. It was placed in the public
-domain by its author "byuu". The code in the upset_cli.cpp is distributed under
-the GPL 3.0 license.
+The original code is under the `nall` directory. It was placed in the public
+domain by its author "byuu", as was reported in the following note at top of
+the original Makefile:
+
+```
+# Makefile
+# author: byuu
+# license: public domain
+```
+
+The code in `upset.cpp` is my new command line interface and it is placed in
+the Public Domain too.
 
